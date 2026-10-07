@@ -37,7 +37,7 @@ Keep the `assets` folder beside `index.html`; moving or uploading only the HTML 
 
 1. Put media files in `assets/projects/`.
 2. Use compressed `.webm` or `.mp4` video where possible. Add a poster image for faster loading.
-3. Replace a case study's `.case-ui` preview in `dist/index.html` with one of these:
+3. Replace a case study's `.case-ui` preview in `index.html` with one of these:
 
 ```html
 <video style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover" autoplay muted loop playsinline poster="assets/projects/project-poster.webp">
