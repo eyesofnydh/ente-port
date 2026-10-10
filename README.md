@@ -14,13 +14,13 @@ Responsive portfolio for Nidhin Narayanan, focused on quality engineering, acces
 
 ## Run locally
 
-This repository is a complete static site. The deployable `index.html` is at the repository root.
+This repository is a complete static site. The deployable `index.html` is at the repository root. On Windows, double-click `start-local.cmd` to open it locally without installing anything else.
 
 ```bash
 npm run dev
 ```
 
-Then open the local address shown in the terminal.
+You can also run `python -m http.server 4173 --bind 127.0.0.1` and open `http://127.0.0.1:4173`. Press `Ctrl+C` in the terminal to stop the local server.
 
 ## Playful Pet files
 
