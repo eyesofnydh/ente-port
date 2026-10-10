@@ -5,9 +5,10 @@ Responsive portfolio for Nidhin Narayanan, focused on quality engineering, acces
 ## Included
 
 - Interactive pixel-reveal hero
+- Vector Nidhin character with a subtle hover blink and an accessible spring-motion QA tooltip
 - Scroll-driven capability statement
 - QA-first project gallery with accessible detail dialogs and keyboard focus restoration
-- Featured case studies for NYDH QA Workspace, RBI Accessibility Tester and Site Checks
+- Featured case studies for NYDH QA Workspace, Accessibility Tester and Site Checks
 - Playful Pet cursor companion based on the supplied `PlayfulPet.tsx`
 - Responsive desktop, tablet and mobile layouts
 - Reduced-motion support
@@ -60,7 +61,7 @@ Push the complete folder to GitHub, then open **Settings → Pages**. Select **D
 ## Main links
 
 - [NYDH QA Workspace](https://nydh-v1.vercel.app/)
-- [RBI Accessibility Tester](https://rbi-accessibility-tester.onrender.com/)
+- [Accessibility Tester](https://rbi-accessibility-tester.onrender.com/)
 - [GitHub profile](https://github.com/eyesofnydh)
 
 ## Credits
