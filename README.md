@@ -6,11 +6,12 @@ Responsive portfolio for Nidhin Narayanan, focused on quality engineering, acces
 
 - Interactive pixel-reveal hero
 - Scroll-driven capability statement
-- Folder-style project gallery with accessible detail dialogs
+- QA-first project gallery with accessible detail dialogs and keyboard focus restoration
 - Featured case studies for NYDH QA Workspace, RBI Accessibility Tester and Site Checks
 - Playful Pet cursor companion based on the supplied `PlayfulPet.tsx`
 - Responsive desktop, tablet and mobile layouts
 - Reduced-motion support
+- Search and social metadata, plus robots and sitemap files
 
 ## Run locally
 

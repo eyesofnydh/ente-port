@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nidhinn.netlify.app/sitemap.xml
