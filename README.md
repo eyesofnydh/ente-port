@@ -6,6 +6,7 @@ Responsive portfolio for Nidhin Narayanan, focused on quality engineering, acces
 
 - Interactive pixel-reveal hero
 - Vector Nidhin character with a subtle hover blink and an accessible spring-motion QA tooltip
+- Expanded skills matrix, testing workflow, and verified education/certification highlights
 - Scroll-driven capability statement
 - QA-first project gallery with accessible detail dialogs and keyboard focus restoration
 - Featured case studies for NYDH QA Workspace, Accessibility Tester and Site Checks
